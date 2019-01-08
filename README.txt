@@ -41,10 +41,3 @@ Learning by coding - Una nuova metodologia progettuale
 | -- > Vera Molnar 			Basil.js
 | -- > Eusebio Sempere 			Basil.js
 | -- > Francois Morellet 		Processing
-
---------------------------------------------------------------
-Author
-Kerem Türkyilmaz
-www.kerem.ch
-https://github.com/KeremTurkyilmaz
-https://www.instagram.com/turkyilmaz_kerem/
