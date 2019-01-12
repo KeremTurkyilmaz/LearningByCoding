@@ -1,0 +1,19 @@
+// Converte una serie di immagini in un video (Nome del file: img_0, img_1, img_2, img_3)
+ffmpeg -framerate 5 -i img_%00d.png -c:v libx264 -profile:v high -crf 20 -pix_fmt yuv420p output.mp4
+
+// Ritorna tutti i file con l'estensione .png e crea un documento 
+cd /User/NomeUtente/Desktop
+ls *.png -1 > file.txt
+
+// Scala risoluzione del video
+ffmpeg -i INPUT.mov -crf 10 -vf scale=500:500 -c:a copy -tune grain OUTPUT.mov
+
+// Scala risoluzione di tutte le immagini
+sips -Z 640 *.jpg
+mogrify -resize 50% *
+
+// Converte file png in jpg
+mogrify -format jpg *.png  
+
+// Crea una gif da una serie d'immagini
+convert -delay 30 *.png out.gif
