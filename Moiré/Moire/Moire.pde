@@ -21,7 +21,6 @@ void setup() {
 }
 
 void draw() {
-  //background(0);
   
   pushMatrix();
   translate(0, 0, -200);
@@ -31,39 +30,17 @@ void draw() {
 
   translate(width/2, height/2, 100);
 
-  if (frameCount % 220 == 0) {
-    g = loadImage("0" + (int)random(num) + ".png");
-  }
-
-  
-  //scale(map(sin(frameCount*0.004), -1, 1, 0.1, 2));
-  
-  
-  //float f = map(sin(frameCount*0.004),-1,1, -360, 360);
-  pushMatrix();
-  //rotateY(radians(f*1.6095));
+  if (frameCount % 220 == 0) g = loadImage("0" + (int)random(num) + ".png");
   image(g, 0, 0, size, size);  
-  popMatrix();
-
 
   if (frameCount % 200 == 0) {
     index = (index+1)%num;
-
     o = loadImage("0" + index + ".png");
   }
   
-  float d1 = map(sin(frameCount*0.004), -1, 1, -360, 360);
-  float d2 = map(sin(frameCount*0.004), -1, 1, 0, 20);
+  float d1 = map(sin(frameCount*0.004), -1, 1, 0, 180);
   pushMatrix();
-  rotateY(radians(d1*1.1495));
-  rotateX(radians(d2*1.1495));
-  
-
+  rotateY(radians(d1));
   image(o, 0, 0, size, size);
-
   popMatrix();
-}
-
-void keyPressed() {
-  saveFrame("CIao.tiff");
 }
