@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Anti%20Selfie/image/AntiSelfie.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Tipografia%20Distorta/image/TipografiaDistorta00.jpg)
 
 # Tipografia distorta
 #### 10.01.2019

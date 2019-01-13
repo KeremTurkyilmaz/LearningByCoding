@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Anti%20Selfie/image/AntiSelfie.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Tavola%20Font/image/TavolaFont.jpg)
 
 # Tavola font
 #### 10.01.2019

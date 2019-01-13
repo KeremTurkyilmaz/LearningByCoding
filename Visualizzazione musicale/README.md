@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Anti%20Selfie/image/AntiSelfie.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Visualizzazione%20musicale/image/VisualizzazioneAudio.png)
 
 # Visualizzazione audio
 #### 10.01.2019

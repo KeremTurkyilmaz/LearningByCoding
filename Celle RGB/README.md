@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Anti%20Selfie/image/AntiSelfie.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Celle%20RGB/image/CelleRGB.png)
 
 # Celle RGB
 #### 10.01.2019

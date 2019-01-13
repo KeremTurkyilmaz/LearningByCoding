@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Anti%20Selfie/image/AntiSelfie.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Scheda%20Tecnica%20Font/image/SchedaTecnicaFont.jpg)
 
 # Scheda tecnica Font
 #### 10.01.2019
