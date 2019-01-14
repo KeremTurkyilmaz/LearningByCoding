@@ -23,18 +23,21 @@ out = []
 for file in os.listdir(root):
  	if os.path.isdir(file):
  		try:
+ 			print "Parsing " + file + "... "
+
  			readme = open(file + '/README.md', 'r')
+ 			
  			content = readme.read()
  			sections = content.split('\n\n')
- 			
+
  			# 1. immagine
  			img_url = sections[0].strip()
 			img_url = regex.match(img_url).group(2)
 			img_url_abs = img_url
 			img_url_abs = img_url_abs.replace('github.com', 'raw.githubusercontent.com')
-			img_url_abs = img_url_abs.replace('blob/', '')
+			img_url_abs = img_url_abs.replace('blob/', '')			
  			
- 			# 2. titolo
+ 			# 2. titolo 			
  			titolo = sections[1].strip('#').strip()
  			
  			# 3. data
