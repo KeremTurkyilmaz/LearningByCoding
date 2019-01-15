@@ -8,8 +8,8 @@ int r = 5;
 boolean[] keys = new boolean[256]; // Key state.
 
 void setup() {
-  
-  size(800, 500, P3D);  
+
+  size(400, 600, P3D);  
   pixelDensity(displayDensity());  
 
   r = constrain(r, 5, 100);
@@ -37,7 +37,7 @@ void draw() {
     rot.x += 0.008;
     rot.y += 0.00823;
   }
-  
+
   float l = 200;  //Dimensione del cubo.
 
   translate(pos.x, pos.y, pos.z);
@@ -96,6 +96,13 @@ void keyPressed() {
     if (key == 'e') r-=5;
   } else {
     if (key == 'r') r+=5;
+  }
+
+  if (key == 's') { 
+    String f = "out/" + System.currentTimeMillis() + ".png";
+    print("Salvo file: " + f + "... ");
+    save(f);
+    println("ok!");
   }
 }
 

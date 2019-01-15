@@ -2,14 +2,15 @@ cell[][] grid;
 int numLine = 5;
 int rows, cols;
 
-int num = 60;
+int num = 50;
 
 boolean Generate;
 
 void setup() {
-  
-  fullScreen();
-  
+
+  //fullScreen();
+  size(500, 800);
+
   background(0);
   noStroke();
   smooth();
@@ -28,12 +29,11 @@ void setup() {
 }
 
 void draw() {
-  
+
   if (Generate) generate();
   if (keyPressed) {
     if (key == 'b') background(0);
   }
-
 }
 
 
@@ -44,9 +44,9 @@ void generate() {
     fill(0, 200);
     rect(-1, -1, width+1, height+1);
   }
-  
+
   for (int i = 0; i < 10; i++) {
-      grid[(int)random(cols)][(int)random(rows)].display();
+    grid[(int)random(cols)][(int)random(rows)].display();
   }
 } 
 
@@ -84,4 +84,11 @@ class cell {
 
 void keyPressed() {
   if (key == ' ') Generate = !Generate;
+
+  if (key == 's') { 
+    String f = "out/" + System.currentTimeMillis() + ".png";
+    print("Salvo file: " + f + "... ");
+    save(f);
+    println("ok!");
+  }
 }

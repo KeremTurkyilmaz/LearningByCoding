@@ -14,6 +14,7 @@ import re
 import json
 
 root = './'
+dest = './data.js'
 github_base_url = 'https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/tree/master/'
 
 regex = re.compile(r'([^(]+)\s*\(([^)]+)\)\s*(?:,\s*|$)')
@@ -61,4 +62,9 @@ for file in os.listdir(root):
  		except (IOError, OSError) as err:
 			print "Errore >>>>>> " + file + "/README.md non trovato!"
 
-print json.dumps(out, indent=4, sort_keys=True)
+json_file = open(dest, "w")
+json_file.write( "const data = " + json.dumps(out, indent=4, sort_keys=True) )
+json_file.close()
+
+
+
