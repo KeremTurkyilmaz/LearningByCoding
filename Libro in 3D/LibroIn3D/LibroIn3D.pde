@@ -10,7 +10,7 @@ boolean control;
 int modo = 1;
 
 void setup() {
-  size(800, 500, P3D);  
+  size(900, 600, P3D);  
 
   copertina = loadImage("copertina.jpg");
   dorso     = loadImage("dorso.jpg");
