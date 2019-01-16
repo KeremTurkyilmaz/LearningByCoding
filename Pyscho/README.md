@@ -1,6 +1,6 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Psichedelico/image/Psichedelico00.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Pyscho/image/pyscho.png)
 
-# Psichedelico
+# Psycho
 
 #### 10.01.2019
 

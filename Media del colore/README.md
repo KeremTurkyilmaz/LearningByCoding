@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Mandala/image/Mandala02.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Media%20del%20colore/image/MediaDelColore.jpg)
 
 # Mandala
 #### 10.01.2019

@@ -1,6 +1,6 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Lettere%20volanti/image/LettereVolanti.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Face%20Mix/image/FaceMix.jpg)
 
-# Lettere volanti
+# Face Mix
 
 #### 10.01.2019
 

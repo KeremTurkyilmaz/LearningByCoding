@@ -1,6 +1,6 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Scheda%20Tecnica%20Font/image/SchedaTecnicaFont.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Slit%20Scanning/image/SlitScan.jpg)
 
-# Scheda tecnica Font
+# Slit Scan
 
 #### 10.01.2019
 

@@ -1,6 +1,6 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Psichedelico/image/Psichedelico00.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Rilievo%20Densità%20Pixel/image/RilievoDensitaPixel.jpg)
 
-# Psichedelico
+# Rilievo Densità Pixel
 
 #### 10.01.2019
 

@@ -1,6 +1,6 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Cubo%20RGB/image/CuboRGB02.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Cubo/image/Cubo.jpg)
 
-# Cubo RGB
+# Cubo
 
 #### 10.01.2019
 

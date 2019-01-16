@@ -1,6 +1,6 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Moiré/image/Moire.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Particelle/image/particelle.jpg)
 
-# Moiré
+# Particelle
 
 #### 10.01.2019
 
