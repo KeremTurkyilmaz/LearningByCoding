@@ -1,10 +1,9 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Cubo/image/Cubo.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Comandi%20Bash/image/ComandiBash.png)
 
-# Cubo
+# Comandi Bash
 
 #### 10.01.2019
 
-Semplice visualizzazione di tre cubi (R, G, B) in uno spazio 3D. È stata inoltre introdotta una camera per cambiare manualmente la prospettiva di visualizzazione.
+Una serie di comandi Bash che permettono di semplificare il flusso di lavoro. Bisogna fare attenzione però alle librerie richieste (mogrify, ffmpeg).
 
-\#colore \#3d \#processing
-
+\#bash
