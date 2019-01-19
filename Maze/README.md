@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Maze/image/Maze.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Maze/image/Maze.png)
 
 # Maze
 

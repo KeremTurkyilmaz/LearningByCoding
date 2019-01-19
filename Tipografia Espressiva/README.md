@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Tipografia%20Espressiva/image/TipografiaEspressiva.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Tipografia%20Espressiva/image/TipografiaEspressiva.jpg)
 
 # Tipografia espressiva
 

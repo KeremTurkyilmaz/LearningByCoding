@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Mandala/image/Mandala02.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Mandala/image/Mandala02.png)
 
 # Mandala
 

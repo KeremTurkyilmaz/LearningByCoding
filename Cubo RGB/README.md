@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Cubo%20RGB/image/CuboRGB02.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Cubo%20RGB/image/CuboRGB02.png)
 
 # Cubo RGB
 

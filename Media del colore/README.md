@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Media%20del%20colore/image/MediaDelColore.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Media%20del%20colore/image/MediaDelColore.jpg)
 
 # Media del colore
 

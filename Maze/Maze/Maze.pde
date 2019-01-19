@@ -1,7 +1,7 @@
 ArrayList<Cella> cells = new ArrayList<Cella>();
 PGraphics preview;
 
-int cellSize = 20;
+int cellSize = 10;
 int num = 10;
 
 // Modo - max modo 2
@@ -53,7 +53,7 @@ void draw() {
 void render(PGraphics gfx) {
   for (Cella c : cells) {
     c.edges();
-    if (frameCount % 10 == 0) {
+    if (frameCount % 2 == 0) {
       c.move();
     }
     c.modeColor(gfx);

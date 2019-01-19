@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Anti%20Selfie/image/AntiSelfie.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Anti%20Selfie/image/AntiSelfie.png)
 
 # Anti Selfie
 

@@ -13,8 +13,8 @@ void initGUI() {
   cp5.setPosition(10, -10);
 
   // Some sliders (Size, Leading, Opacity, Weight)
-  cp5.addSlider("size").setValue(30).setRange(2, 200).setSize(sw, sh).linebreak();
-  cp5.addSlider("leading").setValue(50).setRange(0.1, 200).setSize(sw, sh).linebreak();
+  cp5.addSlider("size").setValue(30).setRange(2, 400).setSize(sw, sh).linebreak();
+  cp5.addSlider("leading").setValue(50).setRange(0.1, 300).setSize(sw, sh).linebreak();
   cp5.addSlider("opacity").setValue(255) .setRange(0, 255).setSize(sw, sh).linebreak();
   cp5.addSlider("weight").setRange(0, 3).setValue(0).setSize(sw, sh).linebreak();
   cp5.addSlider("posX").setRange(0, w).setValue(0).setSize(sw, sh).linebreak();

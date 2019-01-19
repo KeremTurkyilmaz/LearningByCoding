@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Face%20Mix/image/FaceMix.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Face%20Mix/image/FaceMix.jpg)
 
 # Face Mix
 

@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Libro%20in%203D/image/LibroIn3D.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Libro%20in%203D/image/LibroIn3D.jpg)
 
 # Libro in 3D
 

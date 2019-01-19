@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Celle%20RGB/image/CelleRGB.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Celle%20RGB/image/CelleRGB.png)
 
 # Celle RGB
 

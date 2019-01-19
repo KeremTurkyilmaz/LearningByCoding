@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Tutti%20i%20font%20sul%20mio%20disco%20rigido/image/TuttiIFontSulMioDiscoRigido.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Tutti%20i%20font%20sul%20mio%20disco%20rigido/image/TuttiIFontSulMioDiscoRigido.jpg)
 
 # Tutti i font sul mio disco rigido
 

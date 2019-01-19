@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Scheda%20Tecnica%20Font/image/SchedaTecnicaFont.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Scheda%20Tecnica%20Font/image/SchedaTecnicaFont.jpg)
 
 # Scheda tecnica Font
 

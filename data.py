@@ -15,7 +15,7 @@ import json
 
 root = './'
 dest = './data.js'
-github_base_url = 'https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/tree/master/'
+github_base_url = 'https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/'
 
 regex = re.compile(r'([^(]+)\s*\(([^)]+)\)\s*(?:,\s*|$)')
 

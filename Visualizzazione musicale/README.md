@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Visualizzazione%20musicale/image/VisualizzazioneAudio.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Visualizzazione%20musicale/image/VisualizzazioneAudio.png)
 
 # Visualizzazione audio
 

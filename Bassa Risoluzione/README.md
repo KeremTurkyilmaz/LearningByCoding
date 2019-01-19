@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Bassa%20Risoluzione/image/BassaRisoluzione.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Bassa%20Risoluzione/image/BassaRisoluzione.jpg)
 
 # Bassa risoluzione
 

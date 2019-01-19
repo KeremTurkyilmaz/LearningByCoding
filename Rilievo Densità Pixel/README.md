@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Rilievo%20Densità%20Pixel/image/RilievoDensitaPixel.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Rilievo%20Densità%20Pixel/image/RilievoDensitaPixel.jpg)
 
 # Rilievo Densità Pixel
 

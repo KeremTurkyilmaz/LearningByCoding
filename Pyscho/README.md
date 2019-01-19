@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Pyscho/image/pyscho.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Pyscho/image/pyscho.png)
 
 # Psycho
 

@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Video%20Timeline/image/Timeline.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Video%20Timeline/image/Timeline.png)
 
 # Timeline
 

@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Psichedelico/image/Psichedelico00.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Psichedelico/image/Psichedelico00.png)
 
 # Psichedelico
 

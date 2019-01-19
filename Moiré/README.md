@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Moiré/image/Moire.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Moiré/image/Moire.png)
 
 # Moiré
 

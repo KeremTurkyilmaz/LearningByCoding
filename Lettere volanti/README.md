@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Lettere%20volanti/image/LettereVolanti.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Lettere%20volanti/image/LettereVolanti.png)
 
 # Lettere volanti
 

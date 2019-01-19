@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Tipografia%20Distorta/image/TipografiaDistorta00.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Tipografia%20Distorta/image/TipografiaDistorta00.jpg)
 
 # Tipografia distorta
 

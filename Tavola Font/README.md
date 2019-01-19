@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Tavola%20Font/image/TavolaFont.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Tavola%20Font/image/TavolaFont.jpg)
 
 # Tavola font
 

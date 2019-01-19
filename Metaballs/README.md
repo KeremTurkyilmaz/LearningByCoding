@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMistmatchSketch/blob/master/Metaballs/image/Metaballs.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Metaballs/image/Metaballs.png)
 
 # Metaballs
 
