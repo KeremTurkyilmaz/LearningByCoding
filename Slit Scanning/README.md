@@ -6,4 +6,4 @@
 
 Script che genera diversi elementi tipografici per vedere come si comporta il font. È possibile scegliere il nome del font o generarlo random.
 
-\#basiljs \#automazione \#tipografia \#font
+\#processing \#software \#immagini

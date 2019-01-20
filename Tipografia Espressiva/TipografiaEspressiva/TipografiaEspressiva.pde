@@ -1,25 +1,17 @@
 /*
- * Text Editor V4
+ * Tipografia Espressiva
  * ----------------------------------------------------
- * Keyboard:     
- *     TAB :     Add tab to type string
- *     BACK:     Remove the last letter of type string
- *     §   :     Clean type string
- *     à   :     Uppercase mode
+ * Tasti:     
+ *     TAB :     Aggiungi Tabulazione alla stringa
+ *     BACK:     Rimuovi l'ultima lettera
+ *     §   :     Cancella stringa
+ *     à   :     Maiuscole
  * ----------------------------------------------------
  * Mode:     
- *     1   :     Alphabet Mode
- *     2   :     Type Mode
- * ----------------------------------------------------
- * Author Kerem Türkyilmaz (www.kerem.ch) - 29.08.2018
+ *     1   :     Alfabeto
+ *     2   :     Stile libero
  * ----------------------------------------------------
  */
-
-
-// TO DO 
-// Button to load different font
-// Multiline text box
-// CYMK Color
 
 import controlP5.*;
 import processing.pdf.*;

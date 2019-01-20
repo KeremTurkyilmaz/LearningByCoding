@@ -28,31 +28,16 @@ void draw() {
   
   
  
-  if( frameCount % 10  == 0){
-    //int num = floor(random(1,4));
-    //if(num == 1) current1 = floor(random(img.length));
-    //if(num == 2) current2 = floor(random(img.length));
-    //if(num == 3) current3 = floor(random(img.length));
-    current1 = floor(random(img.length));
-    current2 = floor(random(img.length));
-    current3 = floor(random(img.length));
+  if( frameCount % 20  == 0){
+    int num = floor(random(1,4));
+    if(num == 1) current1 = floor(random(img.length));
+    if(num == 2) current2 = floor(random(img.length));
+    if(num == 3) current3 = floor(random(img.length));
+    //current1 = floor(random(img.length));
+    //current2 = floor(random(img.length));
+    //current3 = floor(random(img.length));
   }
   
   //if(frameCount % 10 == 0) saveFrame("image/" + "image-#####.png");
-  
-  
+   
 }
-
-//void mousePressed() {
-//  if ((mouseY > 0) && (mouseY<166)) {
-//    current1++;
-//  } else if ((mouseY > 166) && (mouseY < 332)) {
-//    current2++;
-//  } else {
-//    current3++;
-//  }
-  
-//  if (current1 == numImg) current1 = 0;
-//  if (current2 == numImg) current2 = 0;
-//  if (current3 == numImg) current3 = 0;
-//}

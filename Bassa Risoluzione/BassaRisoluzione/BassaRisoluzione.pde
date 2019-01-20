@@ -23,6 +23,8 @@ void setup() {
 
   size(900, 600, P3D);  
   //fullScreen(P3D);
+  
+  noCursor();
 
   pixelDensity(displayDensity());
 

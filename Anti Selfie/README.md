@@ -6,4 +6,4 @@
 
 Come tutelarsi dai selfie. Il programma riconosce in maniera automatica il volto umano e applica di conseguenza una serie di forme per rendere irriconoscibile la persona.
 
-\#processing \#video
+\#processing \#video \#camera

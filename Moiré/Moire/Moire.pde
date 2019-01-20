@@ -4,11 +4,12 @@ PImage o;
 int num = 6;
 int index = 0;
 
-int size = 1000;
+int size = 500;
 
 void setup() {
 
-  fullScreen(P3D);
+  //fullScreen(P3D);
+  size(1200, 800, P3D);
 
   noCursor();
   g = loadImage("green.png");
@@ -38,7 +39,7 @@ void draw() {
     o = loadImage("0" + index + ".png");
   }
   
-  float d1 = map(sin(frameCount*0.004), -1, 1, 0, 180);
+  float d1 = map(sin(frameCount*0.008), -1, 1, 0, 180);
   pushMatrix();
   rotateY(radians(d1));
   image(o, 0, 0, size, size);

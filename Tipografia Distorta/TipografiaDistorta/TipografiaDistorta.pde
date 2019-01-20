@@ -20,7 +20,7 @@ int actRandomSeed = 0;
 
 void setup() {
   size(640, 360, P2D);
-
+  noCursor();
   File basePath = new File(sketchPath("data/"));
   files = basePath.listFiles(new FilenameFilter() {
     @Override  

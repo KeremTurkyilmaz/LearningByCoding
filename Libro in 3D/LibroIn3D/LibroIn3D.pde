@@ -22,14 +22,14 @@ void setup() {
 
   pixelDensity(displayDensity());
 
-  w = 140;
-  h = 215;
+  w = 210;
+  h = 297;
   d = 30;
 
 }
 
 void draw() {  
-  background(130);
+  background(20);
   translate(width/2, height/2, 100);
 
   if ( control ) {
@@ -45,7 +45,7 @@ void draw() {
     rotateY(angle);
   }
 
-  scale(1.2);
+  scale(1.13);
   TexturedCube();
   
   angle += 0.016;
@@ -55,8 +55,16 @@ void TexturedCube() {
 
   stroke(0);
   strokeWeight(.5);
+  noFill();
   //noStroke();
-
+  
+  //stroke(255, 0, 0);
+  //line(0, 0, 0, 100, 0, 0);
+  //stroke(0, 255, 0);
+  //line(0, 0, 0, 0, 100, 0);
+  //stroke(0, 0,255);
+  //line(0, 0, 0, 0, 0, 100);
+  
   // Copertina
   beginShape(QUADS);
   texture(copertina);  
@@ -68,7 +76,7 @@ void TexturedCube() {
 
   // Retro
   beginShape(QUADS);
-  texture(retro);  
+  texture(retro); 
   vertex(-w/2, -h/2, -d/2, 0, 0);   
   vertex( w/2, -h/2, -d/2, 1, 0);   
   vertex( w/2, h/2, -d/2, 1, 1);   
@@ -116,11 +124,11 @@ void keyPressed() {
   if ( key == 'q' ) control = !control;
   if ( key == '1' ) modo = 1;
   if ( key == '2' ) modo = 2;
-
   if ( key == '3' ) {
     modo = 3;
     roty = PI/4;
   }
+  if ( key == 's' ) save("output.tiff");
 
 }
 

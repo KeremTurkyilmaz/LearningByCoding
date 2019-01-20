@@ -6,4 +6,4 @@
 
 Viene caricato un file audio che modifica e colora, in base alla suono, i diversi rettangoli presenti nello spazio 3D.
 
-\#processing \#audio
+\#processing \#audio \#3D 

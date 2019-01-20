@@ -15,7 +15,7 @@ boolean showImage = false;
 void setup() {
 
   size(640, 480, JAVA2D);
-  
+  noCursor();
   rectMode(CENTER);
 
   video  = new Capture(this, 640, 480);

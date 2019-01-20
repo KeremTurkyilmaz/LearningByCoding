@@ -4,6 +4,7 @@ PFont font;
 boolean show;
 
 void setup() {
+  noCursor();
   size(900, 600);
   colorMode(HSB);
   font = loadFont("HelveticaLT-Bold-20.vlw");

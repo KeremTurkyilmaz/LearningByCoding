@@ -9,7 +9,7 @@ boolean Generate;
 void setup() {
 
   //fullScreen();
-  size(500, 800);
+  size(500, 500);
 
   background(0);
   noStroke();
@@ -30,7 +30,9 @@ void setup() {
 
 void draw() {
 
-  if (Generate) generate();
+  if (frameCount % 10 == 0) {
+    if (Generate) generate();
+  }
   if (keyPressed) {
     if (key == 'b') background(0);
   }

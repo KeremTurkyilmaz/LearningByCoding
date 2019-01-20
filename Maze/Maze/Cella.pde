@@ -17,8 +17,8 @@ class Cella {
   // Torna al centro quando tocca i bordi
   void edges() {
     if (cx >= width || cx <= 0 || cy <= 0 || cy >= height) {
-      //size = size/2;
-      //if (size == 10) size = 40;
+      size = size/2;
+      if (size == 10) size = 40;
       cx = width /2-size;
       cy = height/2-size;
     }
@@ -65,9 +65,9 @@ class Cella {
     rect(0, 0, width, height);
     
     if (modo == 1) {
-      g.fill(255, 5);
+      //g.fill(255, 20);
       //g.noStroke();
-      g.stroke(0, 10);
+      //g.noStroke();
       g.rect(width-cx-size, cy, size, size);
       g.rect(cx, cy, size, size);
     } else if (modo == 2) {

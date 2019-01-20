@@ -6,4 +6,4 @@
 
 Figura di interferenza che crea un movimento ottico grazie alla sovrapposizione di due griglie simili.
 
-\#processing \#moire
+\#percezione \#processing

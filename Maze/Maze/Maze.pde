@@ -1,7 +1,7 @@
 ArrayList<Cella> cells = new ArrayList<Cella>();
 PGraphics preview;
 
-int cellSize = 10;
+int cellSize = 40;
 int num = 10;
 
 // Modo - max modo 2
@@ -22,7 +22,7 @@ boolean autoSave = false;
 
 void setup() {
 
-  size(560, 800);
+  size(800, 560);
 
   preview = createGraphics(width, height, JAVA2D);
 
@@ -53,7 +53,7 @@ void draw() {
 void render(PGraphics gfx) {
   for (Cella c : cells) {
     c.edges();
-    if (frameCount % 2 == 0) {
+    if (frameCount % 1 == 0) {
       c.move();
     }
     c.modeColor(gfx);

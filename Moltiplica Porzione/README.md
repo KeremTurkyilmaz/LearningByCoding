@@ -6,5 +6,5 @@
 
 Semplice visualizzazione di tre cubi (R, G, B) in uno spazio 3D. È stata inoltre introdotta una camera per cambiare manualmente la prospettiva di visualizzazione.
 
-\#colore \#3d \#processing
+\#immagini \#processing
 

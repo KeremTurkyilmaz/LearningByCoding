@@ -1,5 +1,3 @@
-// TO DO
-// Il cerchio all'interno deve rappresentare la media dei 4 colori all'esterno
 import processing.pdf.*;
 import java.util.Calendar;
 
