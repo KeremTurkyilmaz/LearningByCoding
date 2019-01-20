@@ -6,4 +6,4 @@
 
 Macchina da scrivere digitale, quando si preme ENTER le lettere diventano delle particelle che si muovono nello spazio lasciando dietro di loro una scia. 
 
-\#immagini \#software \#processing
+\#immagini \#software \#processing \#3D 

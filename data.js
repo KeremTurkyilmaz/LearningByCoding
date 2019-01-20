@@ -2,14 +2,14 @@ const data = [
     {
         "data": "10.01.2019", 
         "desc": "Macchina da scrivere digitale, quando si preme ENTER le lettere diventano delle particelle che si muovono nello spazio lasciando dietro di loro una scia.", 
-        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Face%20Mix/image/FaceMix.jpg", 
-        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Face%20Mix/image/FaceMix.jpg", 
+        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Installazione%20Facce/image/InstallazioneFacce.jpg", 
+        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Installazione%20Facce/image/InstallazioneFacce.jpg", 
         "tags": [
-            "text", 
-            "particle", 
-            "processing"
+            "3D", 
+            "processing", 
+            "immagini"
         ], 
-        "titolo": "Face Mix", 
+        "titolo": "Installazione Facce", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Installazione Facce"
     }, 
     {
@@ -27,14 +27,13 @@ const data = [
     {
         "data": "10.01.2019", 
         "desc": "La parola Mandala viene dal sanscrito e significa cerchio, ciclo. Ci si riferisce dunque ad un disegno complesso che si compone rispetto ad un centro. Maggiore \u00e8 il numero di livelli e pi\u00f9 complesso sar\u00e0 il disegno finale.", 
-        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Maze/image/Maze.png", 
-        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Maze/image/Maze.png", 
+        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Media%20Dei%20Font/image/MediaDeiFont.jpg", 
+        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Media%20Dei%20Font/image/MediaDeiFont.jpg", 
         "tags": [
-            "processing", 
-            "grid", 
-            "draw"
+            "basil.js", 
+            "tipografia"
         ], 
-        "titolo": "Maze", 
+        "titolo": "Media dei font", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Media Dei Font"
     }, 
     {
@@ -43,12 +42,11 @@ const data = [
         "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Video%20Timeline/image/Timeline.png", 
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Video%20Timeline/image/Timeline.png", 
         "tags": [
-            "basiljs", 
-            "automazione", 
-            "tipografia", 
-            "font"
+            "processing", 
+            "immagini", 
+            "colore"
         ], 
-        "titolo": "Timeline", 
+        "titolo": "Video Timeline", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Video Timeline"
     }, 
     {
@@ -57,8 +55,8 @@ const data = [
         "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Lettere%20volanti/image/LettereVolanti.png", 
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Lettere%20volanti/image/LettereVolanti.png", 
         "tags": [
-            "text", 
-            "particle", 
+            "tipografia", 
+            "particelle", 
             "processing"
         ], 
         "titolo": "Lettere volanti", 
@@ -70,10 +68,9 @@ const data = [
         "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Scheda%20Tecnica%20Font/image/SchedaTecnicaFont.jpg", 
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Scheda%20Tecnica%20Font/image/SchedaTecnicaFont.jpg", 
         "tags": [
-            "basiljs", 
-            "automazione", 
+            "basil.js", 
             "tipografia", 
-            "font"
+            "data"
         ], 
         "titolo": "Scheda tecnica Font", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Scheda Tecnica Font"
@@ -86,7 +83,6 @@ const data = [
         "tags": [
             "processing", 
             "tipografia", 
-            "distorsione", 
             "immagini"
         ], 
         "titolo": "Tipografia distorta", 
@@ -112,8 +108,7 @@ const data = [
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Psichedelico/image/Psichedelico00.png", 
         "tags": [
             "processing", 
-            "color", 
-            "image"
+            "immagini"
         ], 
         "titolo": "Psichedelico", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Psichedelico"
@@ -125,7 +120,8 @@ const data = [
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Anti%20Selfie/image/AntiSelfie.png", 
         "tags": [
             "processing", 
-            "video"
+            "video", 
+            "camera"
         ], 
         "titolo": "Anti Selfie", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Anti Selfie"
@@ -136,7 +132,8 @@ const data = [
         "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Comandi%20Bash/image/ComandiBash.png", 
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Comandi%20Bash/image/ComandiBash.png", 
         "tags": [
-            "bash"
+            "bash", 
+            "software"
         ], 
         "titolo": "Comandi Bash", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Comandi Bash"
@@ -147,8 +144,7 @@ const data = [
         "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Face%20Mix/image/FaceMix.jpg", 
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Face%20Mix/image/FaceMix.jpg", 
         "tags": [
-            "text", 
-            "particle", 
+            "immagini", 
             "processing"
         ], 
         "titolo": "Face Mix", 
@@ -161,7 +157,7 @@ const data = [
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Particelle/image/particelle.jpg", 
         "tags": [
             "processing", 
-            "moire"
+            "particelle"
         ], 
         "titolo": "Particelle", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Particelle"
@@ -173,8 +169,7 @@ const data = [
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Mandala/image/Mandala02.png", 
         "tags": [
             "processing", 
-            "grid", 
-            "draw"
+            "griglia"
         ], 
         "titolo": "Mandala", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Mandala"
@@ -185,8 +180,8 @@ const data = [
         "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Libro%20in%203D/image/LibroIn3D.jpg", 
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Libro%20in%203D/image/LibroIn3D.jpg", 
         "tags": [
-            "text", 
-            "particle", 
+            "immagini", 
+            "software", 
             "processing"
         ], 
         "titolo": "Libro in 3D", 
@@ -195,14 +190,14 @@ const data = [
     {
         "data": "10.01.2019", 
         "desc": "Attraverso la rotazione e la dimensione di un immagine si possono creare delle forme complesse che si modificano in modo costante. Lo sfondo non viene resettato per permettere la creazione della scia, che altrimenti risulterebbe invisibile.", 
-        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Pyscho/image/pyscho.png", 
-        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Pyscho/image/pyscho.png", 
+        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Quadrato%20Reattivo/image/QuadratoReattivo.jpg", 
+        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Quadrato%20Reattivo/image/QuadratoReattivo.jpg", 
         "tags": [
             "processing", 
-            "color", 
-            "image"
+            "arte-riprogrammata", 
+            "audio"
         ], 
-        "titolo": "Psycho", 
+        "titolo": "Quadrato Reattivo", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Quadrato Reattivo"
     }, 
     {
@@ -222,14 +217,13 @@ const data = [
     {
         "data": "10.01.2019", 
         "desc": "Semplice visualizzazione di tre cubi (R, G, B) in uno spazio 3D. \u00c8 stata inoltre introdotta una camera per cambiare manualmente la prospettiva di visualizzazione.", 
-        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Moltiplica%20Porzione/image/MoltiplicaPorzione.jpg", 
-        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Moltiplica%20Porzione/image/MoltiplicaPorzione.jpg", 
+        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Mondrian%20CMYK/image/MondrianCMYK.jpg", 
+        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Mondrian%20CMYK/image/MondrianCMYK.jpg", 
         "tags": [
-            "colore", 
-            "3d", 
-            "processing"
+            "basil.js", 
+            "colore"
         ], 
-        "titolo": "Moltiplica Porzione", 
+        "titolo": "Mondrian CMYK", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Mondrian CMYK"
     }, 
     {
@@ -238,10 +232,9 @@ const data = [
         "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Slit%20Scanning/image/SlitScan.jpg", 
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Slit%20Scanning/image/SlitScan.jpg", 
         "tags": [
-            "basiljs", 
-            "automazione", 
-            "tipografia", 
-            "font"
+            "processing", 
+            "software", 
+            "immagini"
         ], 
         "titolo": "Slit Scan", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Slit Scanning"
@@ -255,7 +248,8 @@ const data = [
             "griglia", 
             "processing", 
             "video", 
-            "pixels"
+            "pixel", 
+            "3D"
         ], 
         "titolo": "Bassa risoluzione", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Bassa Risoluzione"
@@ -263,14 +257,14 @@ const data = [
     {
         "data": "10.01.2019", 
         "desc": "Semplice visualizzazione di tre cubi (R, G, B) in uno spazio 3D. \u00c8 stata inoltre introdotta una camera per cambiare manualmente la prospettiva di visualizzazione.", 
-        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Cubo%20RGB/image/CuboRGB02.png", 
-        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Cubo%20RGB/image/CuboRGB02.png", 
+        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Effetto%20Ottico/image/EffettoOttico.png", 
+        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Effetto%20Ottico/image/EffettoOttico.png", 
         "tags": [
             "colore", 
-            "3d", 
+            "percezione", 
             "processing"
         ], 
-        "titolo": "Cubo RGB", 
+        "titolo": "Effetto Ottico", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Effetto Ottico"
     }, 
     {
@@ -280,8 +274,7 @@ const data = [
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Pyscho/image/pyscho.png", 
         "tags": [
             "processing", 
-            "color", 
-            "image"
+            "immagini"
         ], 
         "titolo": "Psycho", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Pyscho"
@@ -289,14 +282,13 @@ const data = [
     {
         "data": "10.01.2019", 
         "desc": "Semplice visualizzazione di tre cubi (R, G, B) in uno spazio 3D. \u00c8 stata inoltre introdotta una camera per cambiare manualmente la prospettiva di visualizzazione.", 
-        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Cubo%20RGB/image/CuboRGB02.png", 
-        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Cubo%20RGB/image/CuboRGB02.png", 
+        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Distanza%20Font/image/DistanzaFont.jpg", 
+        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Distanza%20Font/image/DistanzaFont.jpg", 
         "tags": [
-            "colore", 
-            "3d", 
+            "tipografia", 
             "processing"
         ], 
-        "titolo": "Cubo RGB", 
+        "titolo": "Distanza Font", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Distanza Font"
     }, 
     {
@@ -306,8 +298,7 @@ const data = [
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Maze/image/Maze.png", 
         "tags": [
             "processing", 
-            "grid", 
-            "draw"
+            "griglia"
         ], 
         "titolo": "Maze", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Maze"
@@ -315,13 +306,13 @@ const data = [
     {
         "data": "10.01.2019", 
         "desc": "Figura di interferenza che crea un movimento ottico grazie alla sovrapposizione di due griglie simili.", 
-        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Particelle/image/particelle.jpg", 
-        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Particelle/image/particelle.jpg", 
+        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/PieChart%20CSV/image/PieChartCSV.jpg", 
+        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/PieChart%20CSV/image/PieChartCSV.jpg", 
         "tags": [
-            "processing", 
-            "moire"
+            "basil.js", 
+            "data"
         ], 
-        "titolo": "Particelle", 
+        "titolo": "PieChart CSV", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/PieChart CSV"
     }, 
     {
@@ -330,8 +321,8 @@ const data = [
         "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Moir\u00e9/image/Moire.png", 
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Moir\u00e9/image/Moire.png", 
         "tags": [
-            "processing", 
-            "moire"
+            "percezione", 
+            "processing"
         ], 
         "titolo": "Moir\u00e9", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Moir\u00e9"
@@ -339,14 +330,13 @@ const data = [
     {
         "data": "10.01.2019", 
         "desc": "Semplice visualizzazione di tre cubi (R, G, B) in uno spazio 3D. \u00c8 stata inoltre introdotta una camera per cambiare manualmente la prospettiva di visualizzazione.", 
-        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Moltiplica%20Porzione/image/MoltiplicaPorzione.jpg", 
-        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Moltiplica%20Porzione/image/MoltiplicaPorzione.jpg", 
+        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Opere%20in%203D/image/OpereIn3D.jpg", 
+        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Opere%20in%203D/image/OpereIn3D.jpg", 
         "tags": [
-            "colore", 
             "3d", 
             "processing"
         ], 
-        "titolo": "Moltiplica Porzione", 
+        "titolo": "Opere in 3D", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Opere in 3D"
     }, 
     {
@@ -355,8 +345,7 @@ const data = [
         "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Cubo%20RGB/image/CuboRGB02.png", 
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Cubo%20RGB/image/CuboRGB02.png", 
         "tags": [
-            "colore", 
-            "3d", 
+            "3D", 
             "processing"
         ], 
         "titolo": "Cubo RGB", 
@@ -365,12 +354,13 @@ const data = [
     {
         "data": "10.01.2019", 
         "desc": "Una serie di comandi Bash che permettono di semplificare il flusso di lavoro. Bisogna fare attenzione per\u00f2 alle librerie richieste (mogrify, ffmpeg).", 
-        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Comandi%20Bash/image/ComandiBash.png", 
-        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Comandi%20Bash/image/ComandiBash.png", 
+        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Croci/image/Croci.jpg", 
+        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Croci/image/Croci.jpg", 
         "tags": [
-            "bash"
+            "3D", 
+            "processing"
         ], 
-        "titolo": "Comandi Bash", 
+        "titolo": "Croci", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Croci"
     }, 
     {
@@ -379,10 +369,9 @@ const data = [
         "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Tavola%20Font/image/TavolaFont.jpg", 
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Tavola%20Font/image/TavolaFont.jpg", 
         "tags": [
-            "basiljs", 
-            "automazione", 
+            "basil.js", 
             "tipografia", 
-            "font"
+            "data"
         ], 
         "titolo": "Tavola font", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Tavola Font"
@@ -394,8 +383,9 @@ const data = [
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Rilievo%20Densit\u00e0%20Pixel/image/RilievoDensitaPixel.jpg", 
         "tags": [
             "processing", 
-            "color", 
-            "image"
+            "3D", 
+            "immagini", 
+            "pixels"
         ], 
         "titolo": "Rilievo Densit\u00e0 Pixel", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Rilievo Densit\u00e0 Pixel"
@@ -406,10 +396,9 @@ const data = [
         "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Tutti%20i%20font%20sul%20mio%20disco%20rigido/image/TuttiIFontSulMioDiscoRigido.jpg", 
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Tutti%20i%20font%20sul%20mio%20disco%20rigido/image/TuttiIFontSulMioDiscoRigido.jpg", 
         "tags": [
-            "basiljs", 
-            "automazione", 
+            "basil.js", 
             "tipografia", 
-            "font"
+            "data"
         ], 
         "titolo": "Tutti i font sul mio disco rigido", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Tutti i font sul mio disco rigido"
@@ -417,26 +406,25 @@ const data = [
     {
         "data": "10.01.2019", 
         "desc": "Una serie di comandi Bash che permettono di semplificare il flusso di lavoro. Bisogna fare attenzione per\u00f2 alle librerie richieste (mogrify, ffmpeg).", 
-        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Comandi%20Bash/image/ComandiBash.png", 
-        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Comandi%20Bash/image/ComandiBash.png", 
+        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Cubo/image/Cubo.jpg", 
+        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Cubo/image/Cubo.jpg", 
         "tags": [
-            "bash"
+            "3D", 
+            "processing"
         ], 
-        "titolo": "Comandi Bash", 
+        "titolo": "Cubo", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Cubo"
     }, 
     {
         "data": "10.01.2019", 
         "desc": "Sovrapposizione di celle, viene preso un numero random da 1 a 3 che determina il colore delle traccia (R, G, B). Ogni tot secondi viene cancellato lo sfondo per far emergere un altro pattern.", 
-        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Celle%20RGB/image/CelleRGB.png", 
-        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Celle%20RGB/image/CelleRGB.png", 
+        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Bibliografia%20CSV/image/Bibliografia.jpg", 
+        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Bibliografia%20CSV/image/Bibliografia.jpg", 
         "tags": [
-            "griglia", 
-            "processing", 
-            "rgb", 
-            "moire"
+            "data", 
+            "basil.js"
         ], 
-        "titolo": "Celle RGB", 
+        "titolo": "Bibliografia CSV", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Bibliografia CSV"
     }, 
     {
@@ -447,7 +435,7 @@ const data = [
         "tags": [
             "processing", 
             "tipografia", 
-            "poster"
+            "software"
         ], 
         "titolo": "Tipografia espressiva", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Tipografia Espressiva"
@@ -459,7 +447,8 @@ const data = [
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Visualizzazione%20musicale/image/VisualizzazioneAudio.png", 
         "tags": [
             "processing", 
-            "audio"
+            "audio", 
+            "3D"
         ], 
         "titolo": "Visualizzazione audio", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Visualizzazione musicale"
@@ -467,15 +456,14 @@ const data = [
     {
         "data": "10.01.2019", 
         "desc": "Sovrapposizione di celle, viene preso un numero random da 1 a 3 che determina il colore delle traccia (R, G, B). Ogni tot secondi viene cancellato lo sfondo per far emergere un altro pattern.", 
-        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Bassa%20Risoluzione/image/BassaRisoluzione.jpg", 
-        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Bassa%20Risoluzione/image/BassaRisoluzione.jpg", 
+        "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Allineatore%20di%20Immagini/image/AllineatoreDiImmagini.jpg", 
+        "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Allineatore%20di%20Immagini/image/AllineatoreDiImmagini.jpg", 
         "tags": [
-            "griglia", 
             "processing", 
-            "video", 
-            "pixels"
+            "immagini", 
+            "software"
         ], 
-        "titolo": "Bassa risoluzione", 
+        "titolo": "Allineatore di Immagini", 
         "url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/tree/master/Allineatore di Immagini"
     }, 
     {
@@ -484,8 +472,7 @@ const data = [
         "img_url": "https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Moltiplica%20Porzione/image/MoltiplicaPorzione.jpg", 
         "img_url_abs": "https://raw.githubusercontent.com/KeremTurkyilmaz/TypeMismatchSketches/master/Moltiplica%20Porzione/image/MoltiplicaPorzione.jpg", 
         "tags": [
-            "colore", 
-            "3d", 
+            "immagini", 
             "processing"
         ], 
         "titolo": "Moltiplica Porzione", 
