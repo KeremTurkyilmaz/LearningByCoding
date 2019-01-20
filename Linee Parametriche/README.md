@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Libro%20in%203D/image/LibroIn3D.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Linee%20Parametriche/image/LineeParametriche.png)
 
 # Linee Parametriche
 

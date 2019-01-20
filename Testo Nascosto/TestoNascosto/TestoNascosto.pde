@@ -1,5 +1,5 @@
-int numCircleForFrame = 5;
-int attempsStop = 100;
+int numCircleForFrame = 1;
+int attempsStop = 1;
 
 int total, attemps;
 

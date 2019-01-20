@@ -18,7 +18,7 @@ void draw() {
   pushMatrix();
   translate(width/2 - ((width/2)/2), height/2);
   for (int i = 0; i < NUMS; i++) {
-    strokeWeight(i*0.2);
+    strokeWeight(i*0.02);
     stroke(255, 0, 0, i*30);
     float tot = t+i;
     line(x1(tot), y1(tot), x2(tot), y2(tot));

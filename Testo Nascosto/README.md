@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Tipografia%20Distorta/image/TipografiaDistorta00.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Testo%20Nascosto/image/TestoNascosto.png)
 
 # Testo Nascosto
 
