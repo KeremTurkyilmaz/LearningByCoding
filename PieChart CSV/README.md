@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Particelle/image/particelle.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/PieChart%20CSV/image/PieChartCSV.jpg)
 
 # PieChart CSV
 

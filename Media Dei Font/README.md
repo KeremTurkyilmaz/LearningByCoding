@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Maze/image/Maze.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Media%20Dei%20Font/image/MediaDeiFont.jpg)
 
 # Media dei font
 

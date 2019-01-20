@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Face%20Mix/image/FaceMix.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Installazione%20Facce/image/InstallazioneFacce.jpg)
 
 # Installazione Facce
 

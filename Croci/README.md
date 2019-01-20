@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Comandi%20Bash/image/ComandiBash.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Croci/image/Croci.jpg)
 
 # Croci
 

@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Moltiplica%20Porzione/image/MoltiplicaPorzione.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Opere%20in%203D/image/OpereIn3D.jpg)
 
 # Opere in 3D
 

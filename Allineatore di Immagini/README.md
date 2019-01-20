@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Bassa%20Risoluzione/image/BassaRisoluzione.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Allineatore%20di%20Immagini/image/AllineatoreDiImmagini.jpg)
 
 # Allineatore di Immagini
 

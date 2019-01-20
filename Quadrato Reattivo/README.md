@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Pyscho/image/pyscho.png)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Quadrato%20Reattivo/image/QuadratoReattivo.jpg)
 
 # Quadrato Reattivo
 

@@ -1,6 +1,6 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Moltiplica%20Porzione/image/MoltiplicaPorzione.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Mondrian%20CMYK/image/MondrianCMYK.jpg)
 
-# Moltiplica Porzione
+# Mondrian CMYK
 
 #### 10.01.2019
 
