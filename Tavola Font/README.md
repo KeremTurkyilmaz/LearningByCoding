@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Permette di comparare in maniera veloce una serie di font. È possibile scegliere se ottenere anche il nome o vedere solamente le lettere. Maggiore è il numero di celle più interessante diventa la tavola.
+Permette di comparare in maniera veloce una serie di font. È possibile scegliere se ottenere anche il nome o vedere solamente le lettere. Maggiore è il numero di celle più é interessante e diversificata la tavola.
 
 \#basil.js \#tipografia \#data

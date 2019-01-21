@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Macchina da scrivere digitale, quando si preme ENTER le lettere diventano delle particelle che si muovono nello spazio lasciando dietro di loro una scia. 
+Il movimento delle varie linee è determinato da delle equazioni parametriche. Il punto d'origine e d'arrivo si muovono sia sull'asse x e y generando così un movimento armonico. Quest'esperimento è ispirato dalle figure "Oscillon" realizzate dal matematico Ben Laposky agli inizi del 1950.
 
 \#colore \#percezione \#processing 

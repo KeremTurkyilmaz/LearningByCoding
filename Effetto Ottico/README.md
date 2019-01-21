@@ -4,7 +4,7 @@
 
 #### 10.01.2019
 
-Semplice visualizzazione di tre cubi (R, G, B) in uno spazio 3D. È stata inoltre introdotta una camera per cambiare manualmente la prospettiva di visualizzazione.
+Esperimento sulla percezione visiva che prende come riferimento le opere della corrent Op Art. Ogni cella è composta da un cerchio che viene suddiviso in diverse sezione. Il colore applicato determina poi l'effetto ottico finale, alcuni pattern prodotti risultano più regolari, mentre altri sono totalmente casuali.
 
 \#colore \#percezione \#processing
 

@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Figura di interferenza che crea un movimento ottico grazie alla sovrapposizione di due griglie simili.
+Script che permette di generare grafici a torta all'interno del programma Adove inDesign. I dati vanno inseriti in un file CSV che deve essere posizionato nella stessa cartella del progetto. 
 
 \#basil.js \#data

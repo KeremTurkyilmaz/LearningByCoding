@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Attraverso la rotazione e la dimensione di un immagine si possono creare delle forme complesse che si modificano in modo costante. Lo sfondo non viene resettato per permettere la creazione della scia, che altrimenti risulterebbe invisibile.
+Struttura specchiata in 3D che si modifica in base a degli oggetti Metaballs. È stata realizzata una grafica off-camera (PGraphics) che rappresenta delle Metaballs, successivamente vengono analizzati i pixel di quest'ultima per determinare l'altezza delle varie colonne che compongono la struttura 3D. Il colore di ogni forma è estrapolato da un'immagine che viene caricata in tempo reale.  
 
 \#processing \#3D \#immagini \#pixels 

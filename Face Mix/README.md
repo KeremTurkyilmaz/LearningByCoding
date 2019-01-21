@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Macchina da scrivere digitale, quando si preme ENTER le lettere diventano delle particelle che si muovono nello spazio lasciando dietro di loro una scia. 
+Quest'esperimento è stato ispirato dal gioco "Cadaveri eccellenti", inventato dai surrealisti. Vengono generate una serie di composizioni con divere facce in maniera casuale, l'intento è quello di concentrandosi principalmente sul volto umano e le similitudini strutturali e fisiologiche di ogni individuo. Rispetto ad un processo manuale questo approccio permette di generare 60 composizioni differenti ogni secondo.  
 
 \#immagini \#processing

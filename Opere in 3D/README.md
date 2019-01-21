@@ -4,7 +4,7 @@
 
 #### 10.01.2019
 
-Semplice visualizzazione di tre cubi (R, G, B) in uno spazio 3D. È stata inoltre introdotta una camera per cambiare manualmente la prospettiva di visualizzazione.
+Una serie di opere famose visualizzate in uno spazio 3D. La densità di ogni pixel dell'immagine determina la posizione sulla asse Z della forma cubica. La sorgente video in entrata serve per aumentare o diminuire la tridimensionalità delle forme geometriche.
 
 \#3D \#processing \#pixels
 

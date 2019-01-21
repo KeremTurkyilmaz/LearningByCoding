@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Attraverso un piccolo script è possibile creare un intero libro in modo automatico che mostra tutti i font che l'utente ha installato sul proprio computer. L'output è un PDF in alta qualità.
+Script che permette di generare una tavola che rappresenta la palette cromatica di un video. In questo modo si pu
 
 \#processing \#colore \#video

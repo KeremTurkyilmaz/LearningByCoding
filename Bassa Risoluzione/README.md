@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Sovrapposizione di celle, viene preso un numero random da 1 a 3 che determina il colore delle traccia (R, G, B). Ogni tot secondi viene cancellato lo sfondo per far emergere un altro pattern. 
+Bassa risoluzione è uno strumento di visualizzazione 3D che utilizza la densità dei pixel di un video per modificare la propria struttura. È possibile ruotare la griglia e vedere l'animazione da più punti di vista. Sono previste quattro forme geometriche che possono essere alternate attraverso i tasti UP e DOWN.
 
 \#griglia \#processing \#video \#pixels \#3D

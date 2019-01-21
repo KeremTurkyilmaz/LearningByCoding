@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-La parola Mandala viene dal sanscrito e significa cerchio, ciclo. Ci si riferisce dunque ad un disegno complesso che si compone rispetto ad un centro. Maggiore è il numero di livelli e più complesso sarà il disegno finale.
+Forma media di un carattere tipografico. Questo script genera una casella di testo, rappresentato una lettera, per ogni font installato sul proprio computer. In questo modo la forma finale che ne deriva rappresenta una media di tutti i caratteri tipografici che l'utente ha a disposizione.
 
 \#basil.js \#tipografia

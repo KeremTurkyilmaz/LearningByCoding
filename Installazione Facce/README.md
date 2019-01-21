@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Macchina da scrivere digitale, quando si preme ENTER le lettere diventano delle particelle che si muovono nello spazio lasciando dietro di loro una scia. 
+Basato sull'esperimento "FaceMix" questo script cerca di creare e visualizzare una possibile installazione. L'idea è quella di creare dei piedistalli che presentano la biografia di ogni persona e il suo volto. Le immagini vengono proiettate su una superfie di vetro con un'opacità. In questo modo posizionandosi all'inizio dell'installazione si può vedere la struttura "media" di un viso.
 
 \#3D \#processing \#immagini

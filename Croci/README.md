@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Una serie di comandi Bash che permettono di semplificare il flusso di lavoro. Bisogna fare attenzione però alle librerie richieste (mogrify, ffmpeg).
+Serie di croci R,G,B in uno spazio 3D. È possibile decidere il punto di vista in base alla posizione del mouse. Le croci possono essere visualizzate in due modi: wireframe, riempimento.
 
 \#3D \#processing

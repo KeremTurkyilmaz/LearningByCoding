@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Figura di interferenza che crea un movimento ottico grazie alla sovrapposizione di due griglie simili.
+Due griglie simili sovrapposte generano un figura d'interferenza che risulta in movimento. È un effetto ottico che rende un immagine non chiara provocando così una distorsione visiva.
 
 \#percezione \#processing

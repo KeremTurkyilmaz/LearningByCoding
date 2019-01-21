@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-La parola Mandala viene dal sanscrito e significa cerchio, ciclo. Ci si riferisce dunque ad un disegno complesso che si compone rispetto ad un centro. Maggiore è il numero di livelli e più complesso sarà il disegno finale.
+Generatore di palette cromatiche estratte dalle immagini. Ogni cerchio rappresenta la media del colore di un'area dell'immagine. Diminuendo il numero di quadranti, ovvero la risoluzione, si può ottenere una palette cromatica che rappresenta la media dei colori dell'immagine in entrata.
 
 \#processing \#immagini \#colore

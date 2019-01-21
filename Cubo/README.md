@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Una serie di comandi Bash che permettono di semplificare il flusso di lavoro. Bisogna fare attenzione però alle librerie richieste (mogrify, ffmpeg).
+Serie di cubi in tre dimensioni. Dando un movimento iniziale al primo cubo gli atri subiscono la stessa rotazione ma con un piccolo ritardo, generando cosi una struttura dinamica.
 
 \#3D \#processing 

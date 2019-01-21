@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Figura di interferenza che crea un movimento ottico grazie alla sovrapposizione di due griglie simili.
+Particelle generate dallo spostamento del mouse. Ogni oggetto si muove ad una velocità diversa, che viene attribuita quando esso viene creato. La direzione di ogni particella cambia quando essa, basandosi sul diametro, tocca uno dei quattro margini.
 
 \#processing \#particelle

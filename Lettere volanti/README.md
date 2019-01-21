@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Macchina da scrivere digitale, quando si preme ENTER le lettere diventano delle particelle che si muovono nello spazio lasciando dietro di loro una scia. 
+Prendendo come riferimento gli esperimenti svolti da John Maeda negli anni 90 ho cercato di ricreare una macchina da scrivere in formato digitale. È quindi possibile digitare qualsiasi stringa di testo, quando si preme ENTER le lettere diventano delle particelle che si muovono nello spazio lasciando dietro di loro una scia. 
 
 \#tipografia \#particelle \#processing

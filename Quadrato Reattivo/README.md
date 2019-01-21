@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Attraverso la rotazione e la dimensione di un immagine si possono creare delle forme complesse che si modificano in modo costante. Lo sfondo non viene resettato per permettere la creazione della scia, che altrimenti risulterebbe invisibile.
+Riproduzione di uno degli esperimenti svolti da John Maeda nel 1990 nella serie Reactive Books.
 
 \#processing \#arte-riprogrammata \#audio

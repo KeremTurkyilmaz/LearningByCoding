@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Vengono caricate una serie di immagini che presentano della tipografia. Attraverso il movimento del mouse (X,Y) è possibile distorcere l'immagine e ottenere composizione interessanti. Il modo 1 agisce su X,Y mentre il modo 2 solo sulla X e il modo 3 solo sulla Y.
+Particelle circolari che si ingrandiscono fino a rivelare il testo nascoto. È stato introdotto un algoritmo che permette di evitare che due o più oggetti si sovrappongano.
 
 \#processing \#tipografia \#particelle
