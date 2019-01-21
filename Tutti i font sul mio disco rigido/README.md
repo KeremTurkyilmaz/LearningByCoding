@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Attraverso un piccolo script è possibile creare un intero libro in modo automatico che mostra tutti i font che l'utente ha installato sul proprio computer. L'output è un PDF in alta qualità che può essere di qualsiasi formato.
+Attraverso un piccolo script è possibile creare un intero libro in modo automatico che mostra tutti i font che l'utente ha installato sul proprio computer. L'output che ne deriva è un PDF in alta qualità. Questo libro serve inoltre per navigare in maniera rapida tra tutti i font che si hanno installati.
 
 \#basil.js \#tipografia \#data

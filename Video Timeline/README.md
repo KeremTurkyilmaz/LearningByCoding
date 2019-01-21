@@ -4,6 +4,6 @@
 
 #### 10.01.2019
 
-Script che permette di generare una tavola che rappresenta la palette cromatica di un video. In questo modo si pu
+Script che permette di generare una tavola che rappresenta la palette cromatica di un video. Quello che ne risulta è una visione d'insieme di tutti momenti che compogno il filmato.
 
 \#processing \#colore \#video
