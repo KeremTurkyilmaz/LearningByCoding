@@ -4,7 +4,7 @@
 
 #### 10.01.2019
 
-Esperimento sulla percezione visiva che prende come riferimento le opere della corrent Op Art. Ogni cella è composta da un cerchio che viene suddiviso in diverse sezione. Il colore applicato determina poi l'effetto ottico finale, alcuni pattern prodotti risultano più regolari, mentre altri sono totalmente casuali.
+Esperimento sulla percezione visiva che prende come riferimento le opere della corrent Op Art. Ogni cella è composta da un cerchio che viene suddiviso in diverse sezioni. Il colore applicato determina poi l'effetto ottico finale, alcuni pattern prodotti risultano più regolari, mentre altri sono totalmente casuali.
 
 \#colore \#percezione \#processing
 
