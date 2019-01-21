@@ -1,4 +1,4 @@
-![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Slit%20Scanning/image/SlitScan.jpg)
+![image](https://github.com/KeremTurkyilmaz/TypeMismatchSketches/blob/master/Slit%20Scan/image/SlitScan.jpg)
 
 # Slit Scan
 
