@@ -28,7 +28,7 @@ void draw() {
   
   
  
-  if( frameCount % 20  == 0){
+  if( frameCount % 1  == 0){
     int num = floor(random(1,4));
     if(num == 1) current1 = floor(random(img.length));
     if(num == 2) current2 = floor(random(img.length));

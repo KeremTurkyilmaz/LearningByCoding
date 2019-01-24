@@ -1,24 +1,29 @@
 void setup() { 
-  size(600, 600, P3D); 
+  fullScreen(P3D);
   pixelDensity(displayDensity());
+  noCursor();
 }
 
 void draw() { 
+  
   background(0); 
+  
   smooth(); 
-  for (int i = 1; i<15; i=i+1) { 
+  for (int i = 1; i<150; i++) { 
     pushMatrix(); 
-    stroke(255); 
+    stroke(255);
+    if(i%2==0) stroke(0);
+    strokeWeight(i*0.02);
     noFill(); 
-    translate(width/2, height/2, -100);
-    rotateX((frameCount+i*1) * 0.005111); 
-    rotateY((frameCount+i*2) * 0.005222); 
-    rotateZ((frameCount+i*3) * 0.005322); 
-    box(i*25); 
+   
+    translate(width/2, height/2, 100);
+    rotateX((frameCount+i*1) * 0.003111); 
+    rotateY((frameCount+i*2) * 0.003222); 
+    rotateZ((frameCount+i*3) * 0.003322); 
+
+    //box(100+i*10, i*10, 10); 
+    box(100+i*10);
     popMatrix();
   }
-}
-
-void keyPressed(){
-  if (key == 's') save("img.tiff");
+   
 }

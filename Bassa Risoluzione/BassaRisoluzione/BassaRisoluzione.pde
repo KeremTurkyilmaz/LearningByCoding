@@ -21,8 +21,8 @@ float damp = random(0.05, 0.15);
 
 void setup() {
 
-  size(900, 600, P3D);  
-  //fullScreen(P3D);
+  //size(900, 600, P3D);  
+  fullScreen(P3D);
   
   noCursor();
 
