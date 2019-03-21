@@ -2,14 +2,14 @@ cell[][] grid;
 int numLine = 5;
 int rows, cols;
 
-int num = 50;
+int num = 40;
 
 boolean Generate;
 
 void setup() {
 
   //fullScreen();
-  size(500, 500);
+  size(800, 800);
 
   background(0);
   noStroke();

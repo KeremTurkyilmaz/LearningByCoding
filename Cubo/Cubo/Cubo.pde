@@ -1,6 +1,7 @@
 void setup() { 
-  fullScreen(P3D);
+  size(800, 800, P3D);
   pixelDensity(displayDensity());
+  smooth();
   noCursor();
 }
 
@@ -11,19 +12,26 @@ void draw() {
   smooth(); 
   for (int i = 1; i<150; i++) { 
     pushMatrix(); 
+    
     stroke(255);
     if(i%2==0) stroke(0);
-    strokeWeight(i*0.02);
+    
+    //stroke(i * cos(radians(i / 200)), 40);
+    
+    strokeWeight(12);
     noFill(); 
    
-    translate(width/2, height/2, 100);
-    rotateX((frameCount+i*1) * 0.003111); 
-    rotateY((frameCount+i*2) * 0.003222); 
-    rotateZ((frameCount+i*3) * 0.003322); 
-
-    //box(100+i*10, i*10, 10); 
-    box(100+i*10);
+    translate(width/2, height/2, -500);
+    rotateX((frameCount+i*2) * 0.002111); 
+    rotateY((frameCount+i*4) * 0.009222); 
+    rotateZ((frameCount+i*6) * 0.005322); 
+    
+    scale(map(sin(frameCount*0.007),-1, 1, 0.7, 4));
+    
+    box(100+i*10,map(sin(frameCount*0.02),-5,5, 0, 1000), 1); 
+    //box(100+i*10);
     popMatrix();
   }
+  
    
 }
