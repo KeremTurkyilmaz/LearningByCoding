@@ -3,8 +3,8 @@ File[] files;
 
 PImage img;
 
-int cols = 4;
-int rows = 7;
+int cols = 40;
+int rows = 70;
 
 float shiftX = 0;
 float shiftY = 0;

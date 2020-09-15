@@ -3,7 +3,9 @@ import java.util.Calendar;
 
 Movie movie;
 
-int tileCountX = 40;
+//int tileCountX = 120;
+//int tileCountY = 6;
+int tileCountX = 60;
 int tileCountY = 60;
 float tileWidth, tileHeight;
 int imageCount = tileCountX*tileCountY; 
@@ -11,12 +13,12 @@ int currentImage = 0;
 int gridX = 0;
 int gridY = 0;
 
-
 void setup() {
-  size(1024, 800);
+  size(1200, 628);
+  //1200 628
   background(#1F1F1F); 
-
-  movie = new Movie(this, "video.mov");
+  pixelDensity(displayDensity());
+  movie = new Movie(this, "video.mp4");
   movie.play();
 
   tileWidth  = width / (float)tileCountX;
